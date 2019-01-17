@@ -2,7 +2,7 @@
 #include <ESP8266HTTPClient.h>
  
 const char* ssid = "OmerRecep";
-const char* password = "Omert242490*";
+const char* password = "ThisisAPassword";
 String token = "token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJnZXJpYXRyaWNfaWQiOiI1YmE4ZjNlYzFiNGY0YTI0Y2NiMzcyYzIiLCJzZW5zb3JfbG9jYXRpb25faWQiOiI1YmE4ZjdiZGI2ODJiZTFiMWMxMjNlNzMifQ.iEfYFrSSBv84-D7eOH_W2Y30C5D_yMTp7jISfbMzmks";
 
 String command = "";
